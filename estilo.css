@@ -1,0 +1,210 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+    padding: 0 4%;
+}
+
+body {
+    background: linear-gradient(#ff0000b1, #bbc7d6f4);
+
+}
+
+nav {
+    display: flex;
+}
+
+.logo {
+    width: 250px;
+}
+
+.logo img {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: -50px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-top: 45px;
+    padding: 0 105px;
+    font-size: 21px;
+}
+
+nav ul li a {
+    text-shadow: -1px 1px red, -3px 3px rgba(0, 0, 0, 0.679);
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #bbc7d6f4
+}
+
+section {
+    display: flex;
+    position: relative;
+    min-height: 100vh;
+    align-items: center;
+}
+
+section div h1 {
+    color: white;
+    font-size: 50px;
+    text-shadow: -3px 2px rgb(0, 0, 0);
+    margin-top: -40px;
+}
+
+section div p {
+    padding: 30px;
+    width: 700px;
+    font-size: 18px;
+}
+
+.secao_img img {
+    margin-left: 250px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: -50px;
+}
+
+section div h2 {
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+.listaA {
+    color: white;
+    font-size: 35px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.altista {
+    margin-left: 700px;
+    margin-top: -400px;
+}
+
+.listaB {
+    color: rgb(238, 238, 119);
+    font-size: 35px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+section div h3 {
+    font-size: 25px;
+    margin-top: -250px;
+}
+
+.listaB li {
+    padding: 5px;
+}
+
+.listaA li {
+    padding: 5px;
+}
+
+.batata {
+    margin-left: 840px;
+    margin-top: -280px;
+}
+
+.batata img {
+    width: 280px;
+}
+
+.listaC {
+    color: rgba(9, 70, 113, 0.742);
+    font-size: 35px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.listaC li {
+    padding: 5px;
+}
+
+.trouxa {
+    margin-top: -490px;
+}
+
+.receita img {
+    margin-left: 700px;
+    margin-top: -270px;
+    width: 550px;
+}
+
+.tamanho {
+    font-size: 70px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.troco {
+    color: wheat;
+    font-size: 35px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.troco li {
+    padding: 5px;
+}
+
+.mato {
+    color: lavender;
+    font-size: 35px;
+    margin-left: -26px;
+
+
+}
+
+.clara {
+    color: lavender;
+    font-size: 35px;
+    margin-left: -26px;
+    margin-top: -700px;
+}
+
+.escuro {color: lavender;
+    font-size: 35px;
+    margin-left: -26px;
+    margin-top: -1200px;
+
+    
+}
+
+.rabo{
+    color: lavender;
+    font-size: 35px;
+    margin-left: -26px;
+    margin-top: -1750px;
+
+}
+
+.trapo{
+    margin-left: 50px;
+    gap: 70px;
+}
+.trapo ul {
+    margin-left: 50px;
+}
+.lindo{
+    margin-left: 50px;  
+
+}
+.lindo ul{
+    margin-left: 50px;
+
+}
